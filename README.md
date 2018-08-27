@@ -10,3 +10,4 @@ npm install
 cd github-card
 visit http://localhost:3000/
 ```
+Demo - https://rajibchandrakarmaker.github.io/github-card/
