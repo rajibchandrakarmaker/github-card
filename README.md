@@ -5,7 +5,8 @@ github profile search using Reactjs
 
 ```
 git clone https://github.com/rajibchandrakarmaker/github-card.git
-npm install
 cd github-card
+npm install
+npm start
 visit http://localhost:3000/
 ```
