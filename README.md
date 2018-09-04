@@ -6,6 +6,7 @@ github profile search using Reactjs
 ```
 Ensure you have [nodejs] installed
 git clone https://github.com/rajibchandrakarmaker/github-card.git
+cd github-card
 npm install
 npm start
 visit http://localhost:3000/
